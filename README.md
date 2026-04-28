@@ -49,7 +49,7 @@ Step 2: Run
 Bash
 ./bank
 
-📸 Sample Menu
+📸 Output Demo Pic
 
 1. Create Account
    <img src="open_new_account.jpg">
