@@ -66,8 +66,11 @@ Bash
 📈 Future Improvements
 
 1.Add File Handling (to save data permanently)
+
 2.Build a GUI (using C++ / Java / Web technologies)
+
 3.Add Login System
+
 4.Support Multiple Users
 
 👨‍💻 Author
