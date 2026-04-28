@@ -58,9 +58,9 @@ Bash
 3. Withdraw Money
    <img src="withdraw.jpg">
 4. Show Balance
-  <img src="show_balance.jpg">
+   <img src="show_balance.jpg">
 5. View Transaction History
-<img src="transaction_history.jpg">
+   <img src="transaction_history.jpg">
 7. Exit
 
 📈 Future Improvements
