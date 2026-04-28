@@ -53,10 +53,15 @@ Bash
 
 1. Create Account
    <img src="open_new_account.jpg">
-3. Deposit Money
-4. Withdraw Money
+2. Deposit Money
+   <img src="deposit.jpg">
+3. Withdraw Money
+   <img src="withdraw.jpg">
+4. Show Balance
+  <img src="show_balance.jpg">
 5. View Transaction History
-6. Exit
+<img src="transaction_history.jpg">
+7. Exit
 
 📈 Future Improvements
 
